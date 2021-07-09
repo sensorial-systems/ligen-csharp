@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>counter_csharp</RootNamespace>
+    <RootNamespace>counter</RootNamespace>
   </PropertyGroup>
 
 </Project>
